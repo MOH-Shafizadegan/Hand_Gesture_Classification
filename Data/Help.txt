@@ -1,1 +1,2 @@
-Add Data into this directory
+Download dataset from the following link:
+- https://ninapro.hevs.ch/
